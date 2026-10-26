@@ -1,6 +1,6 @@
 # Release Information
 
-- **Version**: 1.0.0
+- **Version**: 1.0.1
 
 - **Certified**: Yes
 
@@ -9,6 +9,8 @@
 - **Scope**: Analysis and Investigation
 
 - **Verified with Models**: Fortinet FortiAI (AI model Medium)
+
+- [Release notes](./release_notes.md)
 
 # Investigation Planner
 
@@ -70,5 +72,4 @@ The output is returned as a JSON object.
 | `yes_path`                 | Next step IDs if the answer is affirmative.                                                 |
 | `no_path`                  | Next step IDs if the answer is negative.                                                    |
 | `message`                  | Status message providing additional context or details.                                     |
-
 
